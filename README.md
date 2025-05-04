@@ -30,7 +30,7 @@ To design and simulate a simple 4-bit ALU using Verilog, as a foundational digit
 ## 🧾 Files Included
 
 - `ALU_4bit.v` — Main ALU module
-- `ALU_4bit_text.v` — Testbench for simulation
+- `ALU_4bit_test.v` — Testbench for simulation
 - `README.md` — Project documentation
 
 ---<img width="1407" alt="Screenshot 2025-05-04 at 6 30 04 PM" src="https://github.com/user-attachments/assets/3c88e64e-fe3a-4cd2-80c1-46de91c84d1a" />
