@@ -12,6 +12,10 @@ To design and simulate a simple 4-bit ALU using Verilog, as a foundational digit
 
 ---
 
+## Block Diagram 
+![image](https://github.com/user-attachments/assets/18bc2469-ff9d-4f0b-bd90-2275fece908d)
+
+
 ## Supported Operations
 
 | Opcode | Operation |
